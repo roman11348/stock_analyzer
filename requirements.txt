@@ -1,5 +1,5 @@
 numpy
-matplolib
+matplotlib
 opencv-python
 scikit-learn
 streamlit
