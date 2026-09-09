@@ -1,8 +1,9 @@
 numpy
+pandas
 matplotlib
-opencv-python
-scikit-learn
-streamlit
 mplfinance
+opencv-python-headless
+scikit-learn
+scipy
 yfinance
-joblib
+streamlit
