@@ -1,0 +1,7 @@
+numpy
+matplolib
+opencv-python
+scikit-learn
+streamlit
+mplfinance
+yfinance
